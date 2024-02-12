@@ -1,6 +1,6 @@
 # Google Ana Sayfa Klonu
 
-![github](<Google.png>)
+![github](<Google.PNG>)
 
 
 Bu proje, [Patika.Dev](https://www.patika.dev/tr) tarafından sağlanan ödevlerden biridir. Bu ödevde, Google Ana Sayfasının basit bir klonunu oluşturmayı hedefledim.
